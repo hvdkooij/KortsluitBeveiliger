@@ -1,0 +1,11 @@
+Plotted to 'C:\Users\hvdk0\OneDrive\Documents\KiCad\7.0\projects\KortsluitingBeperker\KortsluitingBeperker-F_Cu.gbr'.
+Plotted to 'C:\Users\hvdk0\OneDrive\Documents\KiCad\7.0\projects\KortsluitingBeperker\KortsluitingBeperker-B_Cu.gbr'.
+Plotted to 'C:\Users\hvdk0\OneDrive\Documents\KiCad\7.0\projects\KortsluitingBeperker\KortsluitingBeperker-F_Paste.gbr'.
+Plotted to 'C:\Users\hvdk0\OneDrive\Documents\KiCad\7.0\projects\KortsluitingBeperker\KortsluitingBeperker-B_Paste.gbr'.
+Plotted to 'C:\Users\hvdk0\OneDrive\Documents\KiCad\7.0\projects\KortsluitingBeperker\KortsluitingBeperker-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\hvdk0\OneDrive\Documents\KiCad\7.0\projects\KortsluitingBeperker\KortsluitingBeperker-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\hvdk0\OneDrive\Documents\KiCad\7.0\projects\KortsluitingBeperker\KortsluitingBeperker-F_Mask.gbr'.
+Plotted to 'C:\Users\hvdk0\OneDrive\Documents\KiCad\7.0\projects\KortsluitingBeperker\KortsluitingBeperker-B_Mask.gbr'.
+Plotted to 'C:\Users\hvdk0\OneDrive\Documents\KiCad\7.0\projects\KortsluitingBeperker\KortsluitingBeperker-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\hvdk0\OneDrive\Documents\KiCad\7.0\projects\KortsluitingBeperker\KortsluitingBeperker-job.gbrjob'.
+Info: Done.

@@ -1,0 +1,5 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"J1";"PhoenixContact_MCV_1,5_2-G-5.08_1x02_P5.08mm_Vertical";1;"Inline";;;
+2;"TH1";"R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Vertical";1;"PTC";;;
+3;"R1";"R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal";1;"2.2k";;;
+4;"D2,D1";"LED_D5.0mm";2;"LED";;;

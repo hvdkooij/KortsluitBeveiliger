@@ -1,0 +1,11 @@
+### Footprint positions - created on Fri Feb  9 16:47:10 2024 ###
+### Printed by KiCad version 7.0.10
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val       Package                                                     PosX       PosY       Rot  Side
+D1        LED       LED_D5.0mm                                                1.2700     6.3500   90.0000  top
+D2        LED       LED_D5.0mm                                               -6.3500     8.8900  -90.0000  top
+J1        Inline    PhoenixContact_MCV_1,5_2-G-5.08_1x02_P5.08mm_Vertical   -13.9700    16.5100    0.0000  top
+R1        2.2k      R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal        -6.3500    -1.2700  180.0000  top
+TH1       PTC       R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Vertical          -21.5900     8.8900    0.0000  top
+## End
