@@ -11,7 +11,7 @@ Deze print is getest met PTC waardes tot 0,65 A. Groetere waardes hebben een and
 Een waarde van 0,65 A is in de praktijk te groot voor een z21 Start.
 Een waarde van 0,4 A kan met sommige combinaties van locomotieven met geluid issues geven.
 
-Voor de Module baan van de VMC (https://www.vmc-epe.nl/) zullen we naar verwachting met 0,4 of 0,5 per module gaan werken zodat een kortsluiting op een module niet de hele baan stil legt.
+Voor de Module baan van de VMC (https://www.vmc-epe.nl/) zullen we naar verwachting met 0,4 A of 0,5 A per module gaan werken zodat een kortsluiting op een module niet de hele baan stil legt.
 
 Deze bijdrage is geplaatst door Hugo van der Kooij.
 
